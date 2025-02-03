@@ -48,8 +48,9 @@ If you encounter any issues with the app, please open an issue in the [GitHub Is
 
 - **Author**: Patrick (GameBoy Pat)
 - **Email**: gbpatgaming@gmail.com
-- **GitHub**: (https://github.com/GameBoyPat) 
-- **Discord**: (https://discord.gg/Bquzkx6HZQ)
+- **X**: [@gbpatgaming](https://x.com/gbpatgaming)
+- **GitHub**: [GameBoyPat](https://github.com/GameBoyPat) 
+- **Discord**: [The GameBoy Crew](https://discord.gg/Bquzkx6HZQ)
 
 ## Screenshots
 
